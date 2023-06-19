@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LimeSplash.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SplashEffect0000" x="0" y="0" width="300" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="SplashEffect0001" x="0" y="300" width="300" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="SplashEffect0002" x="0" y="600" width="300" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="SplashEffect0003" x="0" y="900" width="300" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="SplashEffect0005" x="0" y="1200" width="300" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="400"/>
+</TextureAtlas>
